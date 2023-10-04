@@ -18,7 +18,6 @@ As a software engineer who is passionate about making open-source more accessbil
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [snitikswaroop@gmail.com](mailto:snitikswaroop@gmail.com)
-- 📝 [Resume](https://docs.google.com/document/d/12L4_dIJcSSaUPg6-qfo0gsWOfshMPFsmaxOKcCvCVuw/edit?usp=share_link).
 
 ---
 
