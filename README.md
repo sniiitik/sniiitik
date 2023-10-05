@@ -1,4 +1,4 @@
-# Welcome to [Snitik Swaroop's]profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Snitik Swaroop's]profile! 👋🏻
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 <p align="left">
