@@ -1,6 +1,9 @@
 # Welcome to [Snitik Swaroop's]profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+<p align="left">
+<a href="https://www.linkedin.com/in/snitik7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snitik7" height="30" width="40" /></a> 
+</p>
 
 I am a final year computer science student with a deep-seated passion for the intricate world of data structures and software development.
 
